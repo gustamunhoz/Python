@@ -1,3 +1,5 @@
+#Uma loja está realizando uma promoção para seus clientes. Compras com valor igual ou superior a R$ 200,00 recebem 20% de desconto.
+#Desenvolva um programa que receba o valor total da compra e verifique se o cliente tem direito ao desconto.
 VC= float (input("Qual foi o valor da compra?"))
 if VC >=200:
     print("Você tem direito a um desconto de 20%")
